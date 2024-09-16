@@ -1,6 +1,6 @@
 # Titanic Logistic Regression Classifier 🚢
 
-This project implements a machine learning solution for the famous Titanic dataset from the Kaggle competition. The goal is to predict whether a passenger survived or not based on various features, using Logistic Regression. Below is a breakdown of the step-by-step process:
+This project implements a machine-learning solution for the *Training data* in the famous *Titanic dataset*(https://www.kaggle.com/c/titanic/data?select=train.csv) from the *Kaggle competition*. The goal is to predict whether a passenger survived or not based on various features, using Logistic Regression. Below is a breakdown of the step-by-step process:
 
 # Step-by-Step Process:
 
@@ -40,4 +40,4 @@ The model achieves an accuracy of 83%, with reasonable precision and recall for 
 3. Implementing and evaluating machine learning models
 4. Interpreting classification reports and confusion matrices
 
-# This repository is a hands-on demonstration of applying Logistic Regression to a real-world dataset, illustrating the steps taken in a typical data science workflow.
+*This repository is a hands-on demonstration of applying Logistic Regression to a real-world dataset, illustrating the steps taken in a typical data science workflow.*
